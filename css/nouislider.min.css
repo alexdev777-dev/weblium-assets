@@ -162,7 +162,9 @@
 .noUi-handle:after {
     left: 17px
 }
-
+.noUi-handle:before{
+    background:none !important;
+}
 .noUi-vertical .noUi-handle:after,
 .noUi-vertical .noUi-handle:before {
     width: 14px;
